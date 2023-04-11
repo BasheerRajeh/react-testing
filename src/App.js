@@ -1,7 +1,10 @@
+import Buttons from "./mui-components/Button/Buttons";
 
 function App() {
   return (
-    <div>Hi</div>
+    <div>
+      <Buttons />
+    </div>
   );
 }
 
